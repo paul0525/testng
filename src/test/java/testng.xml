@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="allSuites" allow-return-values="true">
+	
+	<!-- 配置测试多个组件 -->
+	 <suite-files>
+	 	<suite-file path="com/tutorial/testng/testng.xml"/>
+	 	<suite-file path="com/tutorial/testng/busi/testng.xml"/>
+	 </suite-files>
+</suite>

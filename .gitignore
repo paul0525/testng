@@ -61,3 +61,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.settings/org.eclipse.m2e.core.prefs
+target/test-classes/com/tutorial/testng/busi/testng.xml
